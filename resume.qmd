@@ -1,89 +1,57 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Baker Heggie's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Baker Heggie
+Operations Manager | DSP Performance Ops
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:heggiebaker@gmail.com">heggiebaker@gmail.com</a> | (442) 264-3245
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
+Senior at Brigham Young University - Idaho, studying Business Analytics, graduating Spring 2027
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
+Performance management, process improvement (Lean/Six Sigma), team mentoring & feedback, cross-functional collaboration, safety & quality compliance
+<!-- -->
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Data-driven decision making, process analytics, supply chain optimization, performance metrics & dashboards, operational risk mitigation
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Expected Spring 2027`
+__Brigham Young University - Idaho__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Bachelor of Science in Business Analytics, GPA 3.7
+- Relevant coursework: Data-Driven Decision Making, Process Analytics, Supply Chain Optimization, Performance Metrics & Dashboards, Lean Systems
 
-- Sizar
+## Certifications & Technical Skills
 
-`1667 - death`
-__Trinity College, Cambridge__
+`Current`
+OSHA 10-Hour General Industry Certified
 
-- Fellow
+Advanced: MS Excel (formulas, dashboards), SQL, Tableau
 
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+Familiar: CRM tools
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`Feb 2024 - Present`
+__Product Robot Lead__, Idahoan Foods - Lewisville, ID
 
-- Warden
-- Minted coins
+- Managed safety, quality, productivity, and performance for an automated stacking line (2000 units/hour); conducted root-cause investigations on defects and implemented adjustments that reduced downtime
+- Provided regular formal and informal feedback and performance reviews to 1-2 direct reports; mentored team on accountability tools and SOPs
+- Built collaborative relationships with maintenance, quality, and machine operators
+- Analyzed production data using MS Excel; self-identified process projects that optimized scheduling and mitigated risks
+- Supported team motivation in a physically demanding environment; delivered workflow enhancements, ensuring corporate expectations were met on time
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2022 - 2024`
+__Operations Associate (Team Lead)__, Retail / High-Volume Operations
 
+- Led teams of 2-5 in daily operations and inventory management; drove performance accountability through coaching, reducing errors 20% via targeted feedback and quality measures
 
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+<!-- Last updated: July 2026 -->
